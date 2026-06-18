@@ -46,8 +46,6 @@ void printTraversal(
     cout << '\n';
 }
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
     int N;
     cin >> N;
     RedBlackTree tree;
